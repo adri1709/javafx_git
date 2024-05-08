@@ -13,5 +13,5 @@
    <TextField fx:id="facturacion" promptText="Facturacion anual del cliente" />
 
   <Label fx:id="welcomeText" text="..." />
-  <Button onAction="#onHelloButtonClick" prefHeight="28.0" prefWidth="124.0" text="Guardar cliente" />
+  <Button onAction="#onHelloButtonClick" prefHeight="28.0" prefWidth="124.0" text="Guardar cliente" textFill="#0ccd56" />
 </VBox>
